@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class DoubleOps { 
    public static void main(String[] args) {
       double a = Double.parseDouble(args[0]);
